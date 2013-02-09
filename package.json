@@ -1,0 +1,13 @@
+{
+	"name": "ns2gather-steam",
+	"version": "0.0.1",
+	"author": "Jamal Fanaian <j@jamalfanaian.com>",
+	"description": "NS2 Gather Bot for Steam",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"steam": "*",
+		"irc": "*"
+	}
+}
